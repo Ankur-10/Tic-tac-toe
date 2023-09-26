@@ -1,1 +1,1 @@
-# Tic-tac-toe - It is Python game
+# Tic-tac-toe - It is a Python game
